@@ -7,5 +7,6 @@
     },
     "security": {
         "cryptKey": "3B2D6F76326E82B80FF1E0866FCC5C623C989D50BF4E6FC2C4145E13A4607B24"
-    }
+    },
+    "config": true
 }
